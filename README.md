@@ -1,2 +1,4 @@
 # Hello-Word
- Primeiro repositorio do Curso de Git e Github
+ Primeiro repositório do Curso de Git e Github
+
+Criado em aula com o professor Guanabara
